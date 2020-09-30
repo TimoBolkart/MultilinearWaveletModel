@@ -60,7 +60,7 @@ The source is provided for NON-COMMERCIAL RESEARCH PURPOSES only, and is provide
 
 When using this code in a scientific publication, please cite 
 ```
-@inproceedings{BolkartWuhrer2016_rmm,
+@inproceedings{Brunton2014_Wavelets,
   title = {Multilinear wavelets: A statistical shape space for human faces},
   author = {Brunton, Alan and Bolkart, Timo and Wuhrer, Stefanie},
   booktitle = {European Conference on Computer Vision (ECCV)},
