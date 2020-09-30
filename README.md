@@ -4,7 +4,7 @@
 The provided program loads a multilinear model described in the [scientific publication (ECCV 2014)](https://arxiv.org/pdf/1401.2818.pdf) and fits this model to a point cloud or a triangle mesh.
 
 <p align="center"> 
-<img src="img/wavelet_mutlilinear_with_tracking.png" width="60%">
+<img src="img/wavelet_mutlilinear_with_tracking.png" width="70%">
 </p>
 
 ### Setup
@@ -36,7 +36,7 @@ To run the program, the MM Restricted.exe must be called with following 6 parame
 ##### Landmarks
 
 <p align="center"> 
-<img src="img/lmks.png" width="30%">
+<img src="img/lmks.png" width="20%">
 </p>
 Figure: Suggested landmarks. Red: Landmarks used for rigid alignment computation and fitting. Blue: Landmarks used just for fitting.
 
