@@ -70,4 +70,4 @@ When using this code in a scientific publication, please cite
 
 ### Acknowledgement
 
-This work has been partially funded by the Saarland University, Cluster of Excellence MMCI
+This work has been partially funded by the Saarland University, Cluster of Excellence MMCI.
