@@ -41,8 +41,7 @@ To run the program, the MM Restricted.exe must be called with following 6 parame
 Figure: Suggested landmarks. Red: Landmarks used for rigid alignment computation and fitting. Blue: Landmarks used just for fitting.
 
 The landmark files contain the concatenated (x y z)-coordinates of 13 specified landmarks, all coordinates separated by a line break. The first 8 landmarks are used to compute a rigid alignment between the target data and the local coordinate system of the model. The red landmarks of Figure 1 are recommended, since
-they are relatively invariant to expression changes. Furthermore, all specified landmarks are used while
-model fitting.
+they are relatively invariant to expression changes. Furthermore, all specified landmarks are used while model fitting.
 
 ##### Target data
 
