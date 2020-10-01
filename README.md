@@ -17,7 +17,7 @@ The provided code has dependencies on the following libraries:
 * Clapack (http://www.netlib.org/clapack/). Clapack must be compiled using Blas (USE BLAS WRAP must be enabled when using CMake). We recommend using Clapac 3.2.1.
 * Approximate Nearest Neighbor Library ANN (http://www.cs.umd.edu/ mount/ANN/). We recommend using ANN 1.1.2.
 
-To setup the provided code, use CMake and specify the required Glut, Glew, OpenCV, ITK, Clapack and ANN paths. The project needs to be compiled as 64bit project. Successfully compiling the project outputs a LocalMultilinearWavelet.exe. The compiled libraries glut32.dll, glew32.dll, opencv core and ANN.dll, and the shader objects diffuse.fs, diffuse.vs, DisplayDispMap.fs, DisplayImage.fs, TemplateDisparityMap.fs, TemplateDisparityProject.vs, TemplateGeometryMap.fs and TemplateGeometryProject.vs must be copied into the generated project folder. The provided code has been developed and tested under Windows 7
+To setup the provided code, use CMake and specify the required Glut, Glew, OpenCV, ITK, Clapack and ANN paths. The project needs to be compiled as 64bit project. Successfully compiling the project outputs a LocalMultilinearWavelet.exe. The compiled libraries glut32.dll, glew32.dll, opencv core and ANN.dll, and the shader objects diffuse.fs, diffuse.vs, DisplayDispMap.fs, DisplayImage.fs, TemplateDisparityMap.fs, TemplateDisparityProject.vs, TemplateGeometryMap.fs and TemplateGeometryProject.vs must be copied into the generated project folder. The provided code has been developed and tested under Windows 7.
 
 ### Basic usage
 
