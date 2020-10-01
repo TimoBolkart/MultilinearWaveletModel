@@ -1,7 +1,7 @@
 ## Multilinear Wavelets: A Statistical Shape Space for Human Faces
 
 
-The provided program loads a multilinear model described in the [scientific publication (ECCV 2014)](https://arxiv.org/pdf/1401.2818.pdf) and fits this model to a point cloud or a triangle mesh.
+The provided program loads a multilinear wavelet model described in the [scientific publication (ECCV 2014)](https://arxiv.org/pdf/1401.2818.pdf) and fits this model to a point cloud or a triangle mesh.
 
 <p align="center"> 
 <img src="img/wavelet_mutlilinear_with_tracking.png" width="70%">
